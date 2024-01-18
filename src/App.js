@@ -1,5 +1,5 @@
 import React , {useEffect} from 'react';
-import './Sara.css';
+import './App.css';
 import Card from './Components/Card'
 import Contact from './Components/Contact'
 import Home from './Components/Home'
